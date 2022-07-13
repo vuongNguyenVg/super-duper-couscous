@@ -1,0 +1,16 @@
+p.name  {
+    margin-top: 0px;
+}
+h2.order {
+    margin-top: -3px;
+}
+p.1 {
+    margin-top: -5px;
+}
+
+form.dien-ten {
+    display: flex;
+}
+input.lastname {
+    margin-left: 5px;
+}
